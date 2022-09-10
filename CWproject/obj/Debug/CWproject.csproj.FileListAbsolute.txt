@@ -1,0 +1,11 @@
+D:\studying\CWproject\CWproject\obj\Debug\CWproject.csproj.AssemblyReference.cache
+D:\studying\CWproject\CWproject\obj\Debug\CWproject.csproj.SuggestedBindingRedirects.cache
+D:\studying\CWproject\CWproject\obj\Debug\CWproject.Interface.resources
+D:\studying\CWproject\CWproject\obj\Debug\CWproject.Properties.Resources.resources
+D:\studying\CWproject\CWproject\obj\Debug\CWproject.csproj.GenerateResource.cache
+D:\studying\CWproject\CWproject\obj\Debug\CWproject.csproj.CoreCompileInputs.cache
+D:\studying\CWproject\CWproject\bin\Debug\CWproject.exe.config
+D:\studying\CWproject\CWproject\bin\Debug\CWproject.exe
+D:\studying\CWproject\CWproject\bin\Debug\CWproject.pdb
+D:\studying\CWproject\CWproject\obj\Debug\CWproject.exe
+D:\studying\CWproject\CWproject\obj\Debug\CWproject.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3a39907-8ecb-4bcc-8c32-43dfdcb5cb8b": {
+      "ProjectGuid": "e3a39907-8ecb-4bcc-8c32-43dfdcb5cb8b",
+      "DisplayName": "CWproject",
+      "ColorIndex": 0
+    },
+    "6588130c-0e39-406e-9e0a-30cb4d3b064f": {
+      "ProjectGuid": "6588130c-0e39-406e-9e0a-30cb4d3b064f",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
